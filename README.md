@@ -23,8 +23,8 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe-game.git
-    cd tic-tac-toe-game
+    git clone https://github.com/bansalrachit19/Tic-Tae-Toe-Game.git
+    cd Tic-Tae-Toe-Game
     ```
 
 2. Open the `index.html` file in your web browser to start the game.
@@ -33,10 +33,6 @@ To run the game locally, follow these steps:
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-For any inquiries or feedback, please reach out to [your email or other contact information].
+For any inquiries or feedback, please reach out to [bansalrachit311@gmail.com].
